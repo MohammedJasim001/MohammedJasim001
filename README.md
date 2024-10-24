@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasim</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img alt='conding' align= 'right' width='400' src='https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif'
+<img alt='conding' align= 'right' width='350' src='https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif'
 
 - 🔭 I’m currently working on **E-Commerce**
 
