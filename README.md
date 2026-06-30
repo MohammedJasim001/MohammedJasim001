@@ -8,6 +8,8 @@ Full Stack Developer | React • Node.js • Express • MongoDB
 Building scalable web applications with modern JavaScript technologies.
 </p>
 
+<img alt='conding' align= 'right' width='400' src='https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif'
+
 ---
 
 ## 👨‍💻 About Me
