@@ -48,53 +48,7 @@ Building scalable web applications with modern JavaScript technologies.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
----
 
-## 💼 Featured Projects
-
-### 🛒 E-Commerce Platform
-
-✔ Authentication & Authorization
-
-✔ Admin Dashboard
-
-✔ Order Management
-
-✔ Analytics Dashboard
-
-✔ Redux Toolkit
-
-✔ Responsive Design
-
----
-
-### 💬 Social Media Platform
-
-✔ Real-time Chat (Socket.io)
-
-✔ Friend Requests
-
-✔ Notifications
-
-✔ Profile Management
-
-✔ Likes & Comments
-
----
-
-### 🏢 ERP Management System
-
-✔ Employee Management
-
-✔ HR Module
-
-✔ Finance Module
-
-✔ Project Management
-
-✔ Role Based Access Control
-
----
 
 ## 📈 GitHub Stats
 
