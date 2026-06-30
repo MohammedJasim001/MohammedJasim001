@@ -1,27 +1,159 @@
-<h1 align="center">Hi 👋, I'm Jasim</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-<img alt='conding' align= 'right' width='350' src='https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif'
+<h1 align="center">Hi 👋, I'm Mohammed Jasim</h1>
 
-- 🔭 I’m currently working on **E-Commerce**
+<h3 align="center">
+Full Stack Developer | React • Node.js • Express • MongoDB
+</h3>
 
-- 🌱 I’m currently learning **Expressjs, mongoDB**
-
-- 💬 Ask me about **HTML, CSS, JS, react**
-
-- 📫 How to reach me **jasimat001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-jasim-78801630b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed jasim" height="30" width="40" /></a>
-<a href="https://instagram.com/_jasim_at" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jasim_at" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Mohammed-jasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammed jasim" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications with modern JavaScript technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedjasim001&show_icons=true&locale=en&layout=compact" alt="mohammedjasim001" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedjasim001&show_icons=true&locale=en" alt="mohammedjasim001" /></p>
+- 💼 Full Stack Developer
+- 🚀 Currently building scalable web applications
+- 🌱 Learning **System Design**, **Docker**, **AWS**, and **Kafka**
+- 💬 Ask me about
+  - React
+  - Next.js
+  - Node.js
+  - Express
+  - MongoDB
+  - JavaScript
+- 🎯 Goal: Become a Senior Full Stack Engineer
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedjasim001&" alt="mohammedjasim001" /></p>
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🛒 E-Commerce Platform
+
+✔ Authentication & Authorization
+
+✔ Admin Dashboard
+
+✔ Order Management
+
+✔ Analytics Dashboard
+
+✔ Redux Toolkit
+
+✔ Responsive Design
+
+---
+
+### 💬 Social Media Platform
+
+✔ Real-time Chat (Socket.io)
+
+✔ Friend Requests
+
+✔ Notifications
+
+✔ Profile Management
+
+✔ Likes & Comments
+
+---
+
+### 🏢 ERP Management System
+
+✔ Employee Management
+
+✔ HR Module
+
+✔ Finance Module
+
+✔ Project Management
+
+✔ Role Based Access Control
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedjasim001&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedjasim001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohammedjasim001&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammedjasim001&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/mohammed-jasim-78801630b">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:jasimat001@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://leetcode.com/u/Mohammed-jasim">
+<img src="https://cdn.simpleicons.org/leetcode" width="48"/>
+</a>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+[![Jasim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedjasim001&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=mohammedjasim001&color=blueviolet)
+
+---
+
+## ⚡ Fun Fact
+
+> "Code. Learn. Build. Repeat."
